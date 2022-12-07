@@ -11,6 +11,7 @@ public class GithubMain {
 		
 		System.out.println("Yeni Brunch olustur..");
 		
+		System.out.println("Eclipse Merge islemi");
 		
 	}
 
